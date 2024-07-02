@@ -1,5 +1,5 @@
 
-<img src="https://i.ibb.co/cNy9jVy/Modern-Minimal-Technology-Background-Banner-1.png" alt="Banner Image" style="width:100%; height:auto;">
+<img src="https://i.ibb.co/cNy9jVy/Modern-Minimal-Technology-Background-Banner-1.png">
  
 
 
