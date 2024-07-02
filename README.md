@@ -2,6 +2,20 @@
 <!-- Banner Section -->
 <img src="https://i.ibb.co/MkVFH5x/Modern-Minimal-Technology-Background-Banner-1-1.jpg" style="width:100%; height:auto;">
 
+## 👋 About Me:
+
+Hello! I'm [KH. Eliash Ebrahim], a passionate frontend web developer with a strong interest in creating engaging and responsive web applications. As a fresher, I am enthusiastic about learning and mastering new technologies and techniques in web development.
+
+- 🌱 Currently learning **Next.js** and enhancing my skills in **JavaScript**.
+- 🔍 Actively seeking opportunities to collaborate on open-source projects and gain practical experience.
+- 🛠️ Skilled in **HTML**, **CSS**, **JavaScript**, **React**, and **Next.js**.
+- 🎨 Passionate about **UI/UX design** and always aiming to create visually appealing and user-friendly interfaces.
+- 📚 Eager to learn and adapt to new challenges in the ever-evolving tech landscape.
+
+Feel free to connect with me on [LinkedIn]( https://www.linkedin.com/in/eliash-ebrahim/) or check out my [portfolio](https://yourportfolio.com) to see my work.
+
+
+
 ## 📈 Current Statistics 
 <p align="center">
 <a href="https://git.io/streak-stats"><img width="60%" src="https://streak-stats.demolab.com?user=KhEliash&theme=highcontrast&hide_border=true&border_radius=&card_width=496&ring=01EB09&fire=EB0606&stroke=3320EB" alt="GitHub Streak" /></a>
