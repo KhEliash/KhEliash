@@ -12,7 +12,7 @@ Hello! I'm [KH. Eliash Ebrahim], a passionate frontend web developer with a stro
 - 🎨 Passionate about **UI/UX design** and always aiming to create visually appealing and user-friendly interfaces.
 - 📚 Eager to learn and adapt to new challenges in the ever-evolving tech landscape.
 
-Feel free to connect with me on [LinkedIn]( https://www.linkedin.com/in/eliash-ebrahim/) or check out my [portfolio](https://yourportfolio.com) to see my work.
+Feel free to connect with me on [LinkedIn]( https://www.linkedin.com/in/eliash-ebrahim/) or check out my [portfolio](https://eliash-ebrahim.vercel.app/) to see my work.
 
 
 
