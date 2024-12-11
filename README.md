@@ -18,7 +18,7 @@ Feel free to connect with me on [LinkedIn]( https://www.linkedin.com/in/eliash-e
 
 ## 📈 Current Statistics 
 <div align="center">
-<a href="https://git.io/streak-stats"><img width="60%" src="https://streak-stats.demolab.com?user=KhEliash&theme=highcontrast&hide_border=true&border_radius=&card_width=496&ring=01EB09&fire=EB0606&stroke=3320EB" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img width="60%" src="https://streak-stats.demolab.com?user=KhEliash&theme=highcontrast&hide_border=true&border_radius=&card_width=496&ring=01EB09&fire=EB0606&stroke=3320EB" alt="GitHub Streak"/></a>
 <div/>
 
 
