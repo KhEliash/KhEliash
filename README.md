@@ -17,9 +17,12 @@ Feel free to connect with me on [LinkedIn]( https://www.linkedin.com/in/eliash-e
 
 ## 📈 Current Statistics 
 <div align="center">
-<a href="https://git.io/streak-stats"><img width="60%" src="https://streak-stats.demolab.com?user=KhEliash&theme=highcontrast&hide_border=true&border_radius=&card_width=496&ring=01EB09&fire=EB0606&stroke=3320EB" alt="GitHub Streak"/></a>
-<div/>
-
+<!-- first preference -->
+<!-- <a href="https://git.io/streak-stats"><img width="60%" src="https://streak-stats.demolab.com?user=KhEliash&theme=highcontrast&hide_border=true&border_radius=&card_width=496&ring=01EB09&fire=EB0606&stroke=3320EB" alt="GitHub Streak"/></a> -->
+ <!-- Second preference -->
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=KhEliash&theme=dark" alt="GitHub Streak" /></a>
+ </div>
+ 
 
 ## 📫 Connect with me
 <p align="center">
@@ -42,7 +45,7 @@ Feel free to connect with me on [LinkedIn]( https://www.linkedin.com/in/eliash-e
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
- - 🌱 I’m currently learning ... <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
+ - 🌱 I’m currently learning ... <h2>Redux</h2>  <!-- <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> -->
 
 
 
