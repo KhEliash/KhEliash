@@ -1,6 +1,6 @@
  
 <!-- Banner Section -->
-<img src="https://i.ibb.co/MkVFH5x/Modern-Minimal-Technology-Background-Banner-1-1.jpg" style="width:100%; height:auto;">
+<!-- <img src="https://i.ibb.co/MkVFH5x/Modern-Minimal-Technology-Background-Banner-1-1.jpg" style="width:100%; height:60%;"> -->
 
 ## 👋 About Me:
 
